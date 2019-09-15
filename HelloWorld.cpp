@@ -8,8 +8,8 @@ using namespace std;
 // where the execution of program begins 
 int main() 
 { 
-    // prints hello world 
-    cout<<"Hello World!"; 
+    // printed hello world, now prints testing git merge
+    cout<<"Testing git merge!"; 
       
     return 0; 
 } 
